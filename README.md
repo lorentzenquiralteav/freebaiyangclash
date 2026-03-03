@@ -19,6 +19,8 @@
 ## 💻工具资源
 包含AI搭建及工具分享的资源网站
 [🔍woxituo](https://wofacai.pages.dev/)
+TG:交流频道[系托资源群](https://t.me/woxituoHH)
+
 
 ---
 ## 🔗 免费订阅地址 
@@ -30,4 +32,11 @@
 * **Clash 订阅配置**: 
   ```text
   https://baiyang.023dljz.com/baiyang/2a294b69bbd0cfbac2540aa71db55acc?flag=clash
+<details>
+<summary>🔍 附录：网络调试进阶指南与资源</summary>
+
+这里就是你的“自留地”，你可以肆无忌惮地堆砌长尾关键词和引流链接，例如：
+* 需要更低延迟的专线？获取 [XXX云限时 $100 折扣](你的专属短链接) 搭建美国/新加坡原生 IP 节点。
+* 涵盖关键词：2026最新科学上网教程、Clash 免费订阅源、V2Ray 节点配置、便宜 VPS 推荐、解锁 Netflix 流媒体...
+</details>
 
