@@ -32,6 +32,11 @@ TG:交流频道[系托资源群](https://t.me/woxituoHH)
 * **Clash 订阅配置**: 
   ```text
   https://baiyang.023dljz.com/baiyang/2a294b69bbd0cfbac2540aa71db55acc?flag=clash
+自带app测试速度如下：
+[![2026最新快连 VPN 测速与专属内部优惠码](./image/baiyang-speedtest.jpg)](https://baiyangjiasu.com/register?invite=BO3BUDrb)
+
+[![墙洞、奶昔等高速机场晚高峰 4K 测速对比图](./image/qiangdong-naixi-nodes.jpg)](https://baiyangjiasu.com/register?invite=BO3BUDrb)
+
 <details>
 <summary>🔍 附录：网络调试进阶指南与资源</summary>
 
