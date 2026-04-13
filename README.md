@@ -12,14 +12,8 @@
 
 | 服务商 / 方案 | 特色优势 | 专属福利 | 适用场景 |
 | :--- | :--- | :--- | :--- |
-| **[ VPN/🔍白羊加速]** | 🔒 **独享带宽 / 家庭IP / IPLC专线 / 晚高峰不卡** | 🎁 **[点此注册 / 7折特惠券](https://baiyangjiasu.com/register?invite=RWqaczzt)** | 远程办公、流媒体 4K、高强度开发 |
+| **[ VPN/🔍白羊加速]** | 🔒 **独享带宽 / 家庭IP / IPLC专线 / 晚高峰不卡** | 🎁 **[点此注册 / 7折特惠券](https://baiyangjiasu.com/register?invite=RWqaczzt)** | 折扣码：baiyang666 远程办公、流媒体 4K、高强度开发 |
 | 本项目共享节点 | 免费开源/永久免费 | 仅限轻度测试使用 | 临时查阅文档、网络联通性测试 |
-
----
-## 💻工具资源
-包含AI搭建及工具分享的资源网站
-[🔍woxituo](https://wofacai.pages.dev/)
-TG:交流频道[系托资源群](https://t.me/woxituoHH)
 
 
 ---
@@ -42,7 +36,7 @@ TG:交流频道[系托资源群](https://t.me/woxituoHH)
 <summary>🔍 附录：网络调试进阶指南与资源</summary>
 
 这里就是你的“自留地”，你可以肆无忌惮地堆砌长尾关键词和引流链接，例如：
-* 需要更低延迟的专线？获取 [XXX云限时 $100 折扣](https://baiyangjiasu.com/register?invite=RWqaczzt) 搭建美国/新加坡原生 IP 节点。
+* 需要更低延迟的专线？获取 [奶昔/快连/翻墙/折扣](https://baiyangjiasu.com/register?invite=RWqaczzt) 搭建美国/新加坡原生 IP 节点。
 * 涵盖关键词：2026最新科学上网教程、Clash 免费订阅源、V2Ray 节点配置、便宜 VPS 推荐、解锁 Netflix 流媒体...
 </details>
 
